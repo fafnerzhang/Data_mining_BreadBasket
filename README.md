@@ -12,6 +12,7 @@ Also using sklearn's naive bayes to solve problem 2.
 In this dataset we have 9684 transaction and 95 different items.
 It also shown in the code.
 ![](https://i.imgur.com/5tcKEE2.png)
+
 But it contain None item(empty item) , we have to remove None item from this dataset.
 
 We actually have 9465 transcation and 94 different item in our dataset.
@@ -25,6 +26,7 @@ We using apriori method to mine the frequent itemsets.
 
 **3. list the frequent itemsets**
 It shown in the code.
+
 **4. discussions or comments**
 
 
