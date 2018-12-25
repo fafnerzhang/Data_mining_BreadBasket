@@ -12,6 +12,7 @@ Also using sklearn's naive bayes to solve problem 2.
 In this dataset we have 9684 transaction and 95 different items.
 It also shown in the code.
 ![](https://i.imgur.com/5tcKEE2.png)
+
 But it contain None item(empty item) , we have to remove None item from this dataset.
 
 We actually have 9465 transcation and 94 different item in our dataset.
@@ -25,6 +26,7 @@ We using apriori method to mine the frequent itemsets.
 
 **3. list the frequent itemsets**
 It shown in the code.
+
 **4. discussions or comments**
 
 
@@ -37,7 +39,10 @@ We using sklearn's naive bayes to extract the dataset
 4. Apply the input , predict whether the customer will buy the "Bread" .
 
 **2. Write an example to illustrate the method**
-It shown in the code.
+It shown in the code. 
+
+We made test it can show both buy "bread and not buy "bread"
+
 **3. discussions or comments**
 This assignment is very practical.
 We spend lots of time to servey how to using the extracting tool.
