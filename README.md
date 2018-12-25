@@ -38,7 +38,9 @@ We using sklearn's naive bayes to extract the dataset
 
 **2. Write an example to illustrate the method**
 It shown in the code. 
+
 We made test it can show both buy "bread and not buy "bread"
+
 **3. discussions or comments**
 This assignment is very practical.
 We spend lots of time to servey how to using the extracting tool.
